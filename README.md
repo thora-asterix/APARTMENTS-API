@@ -1,3 +1,12 @@
+
+
+This small React application was created to consume a public API of available apartments served by the Building Management Spring Boot project. 
+The application was created with React, Axios, and Bootstrap.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
